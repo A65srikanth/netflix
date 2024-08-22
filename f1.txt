@@ -1,4 +1,2 @@
-movie name 
-1 RRR
-2 Bahubali 2
+ 2 Bahubali 2
 3 varsham
